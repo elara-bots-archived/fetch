@@ -10,7 +10,7 @@ The main change is `<res>.text()`, `<res>.json()` not being async anymore.
 ## Install
 
 ```shell
-npm i elara-bots/fetch
+npm i @elara-services/fetch
 ```
 
 ## Getting Started
