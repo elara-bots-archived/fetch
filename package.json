@@ -1,5 +1,5 @@
 {
-  "name": "fetch",
+  "name": "@elara-services/fetch",
   "version": "1.0.0",
   "description": "The core lightweight HTTP client for Node",
   "main": "index.js",
