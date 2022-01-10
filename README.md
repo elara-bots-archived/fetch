@@ -18,7 +18,7 @@ npm i @elara-services/fetch
 First, require the library.
 
 ```js
-const c = require("fetch")
+const c = require("@elara-services/fetch")
 ```
 
 Then let's make a request in an async function!
