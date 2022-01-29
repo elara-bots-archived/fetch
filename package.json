@@ -1,6 +1,6 @@
 {
   "name": "@elara-services/fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The core lightweight HTTP client for Node",
   "main": "index.js",
   "repository": {

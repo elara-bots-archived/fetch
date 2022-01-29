@@ -1,9 +1,9 @@
-const { join } = require("node:path")
-const http = require("node:http")
-const https = require("node:https")
-const qs = require("node:querystring")
-const zlib = require("node:zlib")
-const { URL } = require("node:url")
+const { join } = require("path")
+const http = require("http")
+const https = require("https")
+const qs = require("querystring")
+const zlib = require("zlib")
+const { URL } = require("url")
 const Response = require("./Response.js")
 const supportedCompressions = ["gzip", "deflate"]
 
